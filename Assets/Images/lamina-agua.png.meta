@@ -1,0 +1,1422 @@
+fileFormatVersion: 2
+guid: 324b7e7ea4f8097438d7cdc220a8d567
+timeCreated: 1517104074
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lamina-agua_0
+    21300002: lamina-agua_1
+    21300004: lamina-agua_2
+    21300006: lamina-agua_3
+    21300008: lamina-agua_4
+    21300010: lamina-agua_5
+    21300012: lamina-agua_6
+    21300014: lamina-agua_7
+    21300016: lamina-agua_8
+    21300018: lamina-agua_9
+    21300020: lamina-agua_10
+    21300022: lamina-agua_11
+    21300024: lamina-agua_12
+    21300026: lamina-agua_13
+    21300028: lamina-agua_14
+    21300030: lamina-agua_15
+    21300032: lamina-agua_16
+    21300034: lamina-agua_17
+    21300036: lamina-agua_18
+    21300038: lamina-agua_19
+    21300040: lamina-agua_20
+    21300042: lamina-agua_21
+    21300044: lamina-agua_22
+    21300046: lamina-agua_23
+    21300048: lamina-agua_24
+    21300050: lamina-agua_25
+    21300052: lamina-agua_26
+    21300054: lamina-agua_27
+    21300056: lamina-agua_28
+    21300058: lamina-agua_29
+    21300060: lamina-agua_30
+    21300062: lamina-agua_31
+    21300064: lamina-agua_32
+    21300066: lamina-agua_33
+    21300068: lamina-agua_34
+    21300070: lamina-agua_35
+    21300072: lamina-agua_36
+    21300074: lamina-agua_37
+    21300076: lamina-agua_38
+    21300078: lamina-agua_39
+    21300080: lamina-agua_40
+    21300082: lamina-agua_41
+    21300084: lamina-agua_42
+    21300086: lamina-agua_43
+    21300088: lamina-agua_44
+    21300090: lamina-agua_45
+    21300092: lamina-agua_46
+    21300094: lamina-agua_47
+    21300096: lamina-agua_48
+    21300098: lamina-agua_49
+    21300100: lamina-agua_50
+    21300102: lamina-agua_51
+    21300104: lamina-agua_52
+    21300106: lamina-agua_53
+    21300108: lamina-agua_54
+    21300110: lamina-agua_55
+    21300112: lamina-agua_56
+    21300114: lamina-agua_57
+    21300116: lamina-agua_58
+    21300118: lamina-agua_59
+    21300120: lamina-agua_60
+    21300122: lamina-agua_61
+    21300124: lamina-agua_62
+    21300126: lamina-agua_63
+    21300128: lamina-agua_64
+    21300130: lamina-agua_65
+    21300132: lamina-agua_66
+    21300134: lamina-agua_67
+    21300136: lamina-agua_68
+    21300138: lamina-agua_69
+    21300140: lamina-agua_70
+    21300142: lamina-agua_71
+    21300144: lamina-agua_72
+    21300146: lamina-agua_73
+    21300148: lamina-agua_74
+    21300150: lamina-agua_75
+    21300152: lamina-agua_76
+    21300154: lamina-agua_77
+    21300156: lamina-agua_78
+    21300158: lamina-agua_79
+    21300160: lamina-agua_80
+    21300162: lamina-agua_81
+    21300164: lamina-agua_82
+    21300166: lamina-agua_83
+    21300168: lamina-agua_84
+    21300170: lamina-agua_85
+    21300172: lamina-agua_86
+    21300174: lamina-agua_87
+    21300176: lamina-agua_88
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lamina-agua_0
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1849
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1807
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_2
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1810
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_3
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1641
+        width: 205
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_4
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1830
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_5
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1809
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_6
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1642
+        width: 168
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_7
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1822
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_8
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1805
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_9
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1839
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_10
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1643
+        width: 160
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_11
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1775
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_12
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1750
+        width: 79
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1643
+        width: 245
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_14
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1758
+        width: 38
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_15
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1753
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_16
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1751
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_17
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1765
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_18
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1737
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1690
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_20
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1712
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_21
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1712
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_22
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1682
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_23
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1686
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_24
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1704
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_25
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1711
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_26
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1682
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_27
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1711
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1679
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_29
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1661
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1541
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_31
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1372
+        width: 160
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_32
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1531
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_33
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1371
+        width: 156
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_34
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 1372
+        width: 154
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_35
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1372
+        width: 160
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_36
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1480
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_37
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1467
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_38
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1430
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_39
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1390
+        width: 51
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_40
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1380
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_41
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1377
+        width: 79
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_42
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1105
+        width: 158
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_43
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1101
+        width: 157
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_44
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1101
+        width: 175
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_45
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1104
+        width: 157
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_46
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 834
+        width: 174
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_47
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 835
+        width: 156
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_48
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 835
+        width: 157
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_49
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 832
+        width: 175
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_50
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 563
+        width: 157
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_51
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 561
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_52
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 561
+        width: 156
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_53
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 561
+        width: 159
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_54
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 290
+        width: 158
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_55
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 292
+        width: 157
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_56
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 292
+        width: 156
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_57
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 390
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_58
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 292
+        width: 157
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_59
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 453
+        width: 81
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_60
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 388
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_61
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 353
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_62
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 299
+        width: 79
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_63
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 300
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_64
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 8
+        width: 159
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_65
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 168
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_66
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 119
+        width: 72
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_67
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 24
+        width: 170
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_68
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 23
+        width: 207
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_69
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 188
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_70
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 230
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_71
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 151
+        width: 80
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_72
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 160
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_73
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 158
+        width: 79
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_74
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 139
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_75
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 23
+        width: 246
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_76
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 131
+        width: 81
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_77
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 89
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_78
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 59
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_79
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 92
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_80
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 85
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_81
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 67
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_82
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 75
+        width: 41
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_83
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 92
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_84
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 91
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_85
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 69
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_86
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 44
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_87
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 62
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lamina-agua_88
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 58
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
